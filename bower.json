@@ -1,0 +1,21 @@
+{
+  "name": "data-uri",
+  "description": "A data-uri feature detector for can.js",
+  "author": {
+    "name": "Robert Böing",
+    "email": "robert.boeing@konexmedia.com"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "url": "git@github.com:canjs/data-uri.git"
+  },
+  "license": "MIT",
+  "main": "./build/data-uri.min.js",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "gulpfile.js",
+      "package.json",
+      "index.js"
+  ]
+}
