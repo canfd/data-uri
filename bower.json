@@ -1,5 +1,5 @@
 {
-  "name": "data-uri",
+  "name": "can.data-uri",
   "description": "A data-uri feature detector for can.js",
   "author": {
     "name": "Robert Böing",

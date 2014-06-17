@@ -1,3 +1,10 @@
+/**
+ * can.data-uri - A data-uri feature detector for can.js
+ * @version v1.0.0
+ * @author Robert Böing (robert.boeing@konexmedia.com)
+ * @license MIT
+ *
+ */
 /*
  * can-data-uri
  *
