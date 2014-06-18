@@ -5,7 +5,7 @@
     "name": "Robert Böing",
     "email": "robert.boeing@konexmedia.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "git@github.com:canjs/data-uri.git"
   },
