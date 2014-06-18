@@ -1,4 +1,4 @@
-# UNRELEASED
+# 1.0.1 (2014-06-18)
 
   * Build will now be copied to the `dist` directory.
 
